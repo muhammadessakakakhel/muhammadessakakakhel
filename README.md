@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how Deep Learning and web is Integrated in real-time GIS Applications**
 
-- 👯 I’m looking to collaborate on **Machine learning and web GIS projects, and Spatial data Science**
+- 👯 I’m looking to collaborate on **Machine learning, web GIS, and Spatial data Science Projects**
 
 - 💬 Ask me about **GIS, Machine Learning, Mapping libraries, Spatial databases, React, Django, Flask, Angular, Node**
 
